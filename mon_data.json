@@ -1,0 +1,92 @@
+{
+  "mon1": {
+    "Scale": 4,
+    "Hp": 20,
+    "Damage": 5,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon2": {
+    "Scale": 4.5,
+    "Hp": 30,
+    "Damage": 6,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon3": {
+    "Scale": 4.2,
+    "Hp": 40,
+    "Damage": 7,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon4": {
+    "Scale": 4,
+    "Hp": 50,
+    "Damage": 8,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon5": {
+    "Scale": 4.5,
+    "Hp": 60,
+    "Damage": 9,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon6": {
+    "Scale": 4,
+    "Hp": 70,
+    "Damage": 10,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon7": {
+    "Scale": 4.2,
+    "Hp": 80,
+    "Damage": 11,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon8": {
+    "Scale": 4.2,
+    "Hp": 90,
+    "Damage": 12,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon9": {
+    "Scale": 4.6,
+    "Hp": 100,
+    "Damage": 13,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  },
+  "mon10": {
+    "Scale": 5,
+    "Hp": 110,
+    "Damage": 14,
+    "AtkDelay": 5,
+    "SkillDamage": "N/A",
+    "SkillDelay": "N/A",
+    "StunTime": "N/A"
+  }
+}
