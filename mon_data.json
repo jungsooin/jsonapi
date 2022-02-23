@@ -2,7 +2,7 @@
   "mon1": {
     "Scale": 40,
     "Hp": 20,
-    "Damage": 5,
+    "Damage": 500,
     "AtkDelay": 5,
     "SkillDamage": "인터네수정입니다",
     "SkillDelay": "N/A",
