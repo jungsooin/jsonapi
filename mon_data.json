@@ -1,6 +1,6 @@
 {
   "mon1": {
-    "Scale": 4,
+    "Scale": 40,
     "Hp": 20,
     "Damage": 5,
     "AtkDelay": 5,
